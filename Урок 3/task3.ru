@@ -1,1 +1,7 @@
-
+print('Привет как тебя зовут')
+name = input()
+print('Привет,', name)
+print('Как твоя фамилия ?')
+name = input()
+print('Как твое отчество?')
+name = input()
