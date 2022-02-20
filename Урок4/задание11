@@ -1,0 +1,5 @@
+num = 25
+mum2 = 25
+num3 = num + mum2
+print(num3)
+50
