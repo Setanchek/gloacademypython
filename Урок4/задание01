@@ -1,5 +1,4 @@
-num = 25
-mum2 = 25
-num3 = num + mum2
-print(num3)
-50
+2 = 16
+b2 = 16
+print(а2+b2)
+32
